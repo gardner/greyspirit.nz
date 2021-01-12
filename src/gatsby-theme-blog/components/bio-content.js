@@ -8,11 +8,9 @@ import { Styled } from "theme-ui"
 export default function Bio() {
   return (
     <>
-      This is where <Styled.a href="http://example.com/">your name</Styled.a>
-      {` `}
-      goes.
+      <Styled.a href="https://greyspirit.nz/">Grey Spirit</Styled.a>
       <br />
-      Or whatever, you make the rules.
+      Stories from the sea.
     </>
   )
 }
